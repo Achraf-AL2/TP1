@@ -1,0 +1,6 @@
+Lion
+Chien
+Giraffe	
+Singe
+Elephant
+Abeille
